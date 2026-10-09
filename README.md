@@ -242,4 +242,4 @@ This repository serves as the official landing page for Monster Hunter Wilds. Th
 **Get the most recent version of Monster Hunter Wilds today!**
 
 ---
-**Last updated:** 2026-10-09 10:03:27 UTC
+**Last updated:** 2026-10-09 17:18:52 UTC
